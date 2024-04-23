@@ -1,16 +1,36 @@
-### Hi there 👋
+<!DOCTYPE html>
+<html>
+<head> 
+	<title>Моя визитка</title>
+	<link rel="stylesheet" href="style.css">
+</head>
 
-<!--
-**ledyaeva/ledyaeva** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<body class="container">
+		<p>Lady</p>
+		<h1>Дикая вишня</h1>
+		
+	
 
-Here are some ideas to get you started:
+		<img alt="картинка"  src="download.jpg">
+		</div>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+			<p>сочная спелая</p>
+
+			<h2>Обо мне</h2>
+
+			<div class="contacts">
+
+				<a href="http://t.me/irina_ledyai">telegram</a> 
+				<br>
+				<a href="Yandex.Mail:led.iri@yandex.ru>Yandex.Mail</a>
+				<br>
+			<div class="contact-info">
+        
+        <p><strong>Телефон:</strong> +7 (985)2484082 </p>
+        <p><strong>Адрес:</strong> ул. Профсоюзная,  кв. 123</p>
+    </div>
+</div>
+
+</body>
+</html>
+				
