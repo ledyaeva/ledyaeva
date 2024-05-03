@@ -1,15 +1,14 @@
-# cv_test
-Сайт-визика на HTML + CSS + JS	
-<div class="contacts">
+				# cv_test
+Сайт-визика на HTML + CSS + JS		
+		<div class="contacts">
 
 				<a href="http://t.me/irina_ledyai">telegram</a> 
-			![download](https://github.com/ledyaeva/ledyaeva/assets/167876393/e79564e8-510c-4038-8ff1-f777ea6069a8)
-	<br>
+				<br>
 				<a href="Yandex.Mail:led.iri@yandex.ru>Yandex.Mail</a>
 				<br>
 				
 				
-				<a href="https://github.com/German-D">github.com</a>
+				
 			</div>
 				<button type="button">Кредо</button>
 				<script type="text/javascript" src="js.js"></script>
@@ -25,4 +24,4 @@
 
 </body>
 </html>
-				
+     	
