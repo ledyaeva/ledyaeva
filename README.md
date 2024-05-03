@@ -1,24 +1,11 @@
-<!DOCTYPE html>
-<html>
-<head> # cv_test
-Сайт-визика на HTML + CSS + JS
-	<title>Моя визитка</title>
-	<link rel="stylesheet" href="style.css">
-</head>
+Сайт-визика Дикая вишня		
+		<div class="contacts">
 
-<body class="container">
-		<p>Lady</p>
-		<h1>Дикая вишня</h1>
-		
-	
-
-		<img alt="картинка"  src="download.jpg">
-		</div>
-
-			<p>сочная спелая</p>
-
-			<h2>Обо мне</h2>
-</div>
+				<a href="http://t.me/irina_ledyai">telegram</a> 
+				<br>
+				<a href="Yandex.Mail:led.iri@yandex.ru>Yandex.Mail</a>
+				<br>
+				</div>
 				<button type="button">Кредо</button>
 				<script type="text/javascript" src="js.js"></script>
 <a href="http://t.me/@irina_ledyai">telegram</a> 
@@ -32,5 +19,3 @@
 </div>
 
 </body>
-</html>
-				
