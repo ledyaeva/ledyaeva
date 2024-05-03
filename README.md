@@ -7,7 +7,8 @@
 				<a href="Yandex.Mail:led.iri@yandex.ru>Yandex.Mail</a>
 				<br>
 				
-		
+				
+				<a href="https://github.com/German-D">github.com</a>
 			</div>
 				<button type="button">Кредо</button>
 				<script type="text/javascript" src="js.js"></script>
@@ -23,3 +24,4 @@
 
 </body>
 </html>
+				
