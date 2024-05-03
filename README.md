@@ -3,7 +3,8 @@
 <div class="contacts">
 
 				<a href="http://t.me/irina_ledyai">telegram</a> 
-				<br>
+			![download](https://github.com/ledyaeva/ledyaeva/assets/167876393/e79564e8-510c-4038-8ff1-f777ea6069a8)
+	<br>
 				<a href="Yandex.Mail:led.iri@yandex.ru>Yandex.Mail</a>
 				<br>
 				
